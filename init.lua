@@ -24,5 +24,5 @@ require('lazy').setup({
   require 'plugins.autoformator',
   require 'plugins.lualine',
   require "plugins.LuaSnip",
-  require 'plugins.typescript_tools_nvim'
+  require "plugins.bufferline"
 })

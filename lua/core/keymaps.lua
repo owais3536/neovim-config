@@ -6,7 +6,7 @@ vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
 
 -- set jj as <Esc> key
-keymap.set('i', 'jj', '<Esc>')
+keymap.set('i', 'jk', '<Esc>')
 
 -- set CTRL + s to save file
 keymap.set('n', '<C-s>', '<cmd>w<cr>')

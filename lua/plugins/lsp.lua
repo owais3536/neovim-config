@@ -210,10 +210,11 @@ return {
       cssls = {},
       eslint = {},
       tailwindcss = {},
+      ts_ls = {},
       emmet_ls = {
-        filetypes = {
-          'css', 'html', 'javascript', 'typescript', 'javascriptreact', 'typescriptreact', 'less', 'sass'
-        },
+       filetypes = {
+        'css', 'html', 'javascript', 'typescript', 'javascriptreact', 'typescriptreact', 'less', 'sass'
+       },
       },
       lua_ls = {
         -- cmd = { ... },
